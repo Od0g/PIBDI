@@ -1,3 +1,5 @@
+package exerc.Lista_01PJ;
+
 import java.util.Scanner;
 
 public class Exerc01 {
